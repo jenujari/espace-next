@@ -15,12 +15,16 @@ body {
 .nav-d .nav-dot {
   height: 16px;
   width: 16px;
-  background-color: cyan;
+  background-color: black;
   border-radius: 50%;
   border: 3px solid;
-  float: right;
+  position: fixed;
+  top: 32px;
+  right: 32px;
+
+  /* float: right;
   margin-right: 32px;
-  margin-top: 32px;
+  margin-top: 32px; */
 }
 
 /* =======================  */
